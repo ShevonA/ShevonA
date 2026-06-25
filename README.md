@@ -3,7 +3,7 @@
 
 My Favorite Fluorphore is BV421
 
-Previous Coding Experience: Spatial Transcriptomic Analysis 
+Previous Coding Experience: Spatial Transcriptomic Analysis and scRNA Sequencing
 
 <!--
 **ShevonA/ShevonA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
